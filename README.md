@@ -4,7 +4,7 @@ THIS IS A FORK of binary-person's repository [here](https://github.com/binary-pe
 
 ***
 
-[![Deploy to Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/BinBashBanana/womginx)
+[![Deploy to Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/daddychill696969/womginx)
 
 Usage: `https://example.com/prefix/https://example.com`
 
